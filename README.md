@@ -4,9 +4,9 @@ Este é um projeto desenvolvido para fins acadêmicos e refere-se aos trabalhos 
 
 Comportamento esperado da aplicação comunicando com a instrumentação: 1. Acionamento dos atuadores (valvulas, bombas, aquecedor, etc.) 2. Passar valor de referência para a instrumentação.
 1.
-<img src="https://github.com/miguelneto0/patronos/blob/main/images/descr/patronos_site.gif" width=550>
+<img src="https://github.com/miguelneto0/sensor-solar-WEG/blob/main/sensor-boiler_part1.gif" width=550>
 w.
-<img src="https://github.com/miguelneto0/patronos/blob/main/images/descr/patronos_site.gif" width=550>
+<img src="https://github.com/miguelneto0/sensor-solar-WEG/blob/main/sensor-boiler_part2.gif" width=550>
 
 Trata-se de controlador de boiler acoplado de sensores de umidade e temperatura, que são alimentados por energia solar pelo acionamento de uma bomba (B1) dos coletores de água, uma bomba (B2) para os canos de abastecimento e um aquecedor (A1) que transporta água quente para o boiler. Este trabalho é implementado em linguagem C e o código base é fornecido pelo Professor Romulo Oliveira, na página da da disciplina (https://link). 
 
