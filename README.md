@@ -1,6 +1,6 @@
 # sensor-solar-WEG
 
-Este é um projeto desenvolvido para fins e refere-se aos trabalhos práticos da disciplina de Sistemas de Tempo Real da Universidade Federal de Santa Catarina - UFSC.
+Este é um projeto desenvolvido para fins acadêmicos e refere-se aos trabalhos práticos da disciplina de Sistemas de Tempo Real da Universidade Federal de Santa Catarina - UFSC.
 
 Trata-se de controlador de boiler acoplado de sensores de umidade e temperatura, que são alimentados por energia solar pelo acionamento de uma bomba (B1) dos coletores de água, uma bomba (B2) para os canos de abastecimento e um aquecedor (A1) que transporta água quente para o boiler. Este trabalho é implementado em linguagem C e o código base é fornecido pelo Professor Romulo Oliveira, na página da da disciplina (https://link). 
 
